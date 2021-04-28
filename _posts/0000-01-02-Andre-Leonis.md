@@ -2,6 +2,6 @@
 layout: slide
 title: "Bem Vindo ao meu segundo slide"
 ---
-Esse é apenas o primeiro, de muitos que pretendo criar!!
+"The way to get started is quit talking and begin doing"  Disney, Walt
 
 Use a seta da esquerda para voltar.
